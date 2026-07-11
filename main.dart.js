@@ -11133,7 +11133,7 @@ var $async$CR=A.r(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:if($.an==null)A.aZH()
 $.an.toString
 s=3
-return A.h($.aX8().Fd(0,".env"),$async$CR)
+return A.h($.aX8().Fd(0,"assets/env.txt"),$async$CR)
 case 3:if($.abJ() instanceof A.AZ){$.bn6=A.bpO()
 $.abu=$.abm=null}if($.aX6() instanceof A.AZ)$.bpN=A.bpM()
 s=4
