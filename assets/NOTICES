@@ -6193,6 +6193,7 @@ SOFTWARE.
 file_selector_macos
 flutter_lints
 flutter_shaders
+go_router
 google_identity_services_web
 google_sign_in
 google_sign_in_android
